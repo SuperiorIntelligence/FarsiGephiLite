@@ -5,15 +5,15 @@ import fr from "./fr.json";
 export const LOCALES = {
   dev: {
     translation: dev,
-    label: "Dev language",
+    label: "زبان برنامه نویس",
   },
   en: {
     translation: en,
-    label: "English",
+    label: "انگلیسی",
   },
   fr: {
     translation: fr,
-    label: "Français",
+    label: "فرانسه",
   },
 };
 

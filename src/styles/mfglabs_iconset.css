@@ -29,6 +29,18 @@
     font-style: normal;
 }
 
+body {
+
+  direction: rtl !important;
+
+
+
+
+
+
+
+}
+
 i, .icon {
   font-family: 'mfg_labs_iconsetregular';
   font-style: normal;
@@ -75,6 +87,7 @@ i, .icon {
   );
   
 }
+
 
 /*  MFG Labs iconset uses the Unicode Private Use Area (PUA) to ensure screen
     readers do not read off random characters that represent icons.
